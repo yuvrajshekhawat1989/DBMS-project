@@ -1,5 +1,5 @@
 # DBMS-project
-The zipped file contains the following files:
+The zipped file contains the following files:\n
 • parse_rp.cpp
 • parse_wb.cpp
 • parse_cit.cpp
