@@ -7,17 +7,10 @@ The project contains the following files:
 
 • parse_cit.cpp
 
-• loader.sql
-
 • ERD.pdf
-
-• pg_dump.sql
 
 • relation_schema.sql
 
-• ReadMe
-
-• source.txt (original provided)
 
 Note: All the source codes should be run on LINUX based system as windows system has
 encoding WIN1252 different than UTF-8 which will cause problem in as some characters
@@ -26,7 +19,7 @@ The files parse_rp.cpp, parse_wb.cpp and parse_cit.cpp are the parser codes.
 For compiling and running the codes.
 1. The order of execution should be parse_rp.cpp, parse_wb.cpp then parse_cit.cpp
 2. For compiling use g++ file_name.cpp -o filename
-3. This will generate loader.sql (also provided in the zip)
+3. This will generate loader.sql
 
 
 For creating and populating the database:
@@ -62,8 +55,8 @@ pg_dump file has the backup of our obtained database.
 
 CONTRIBUTION
 
- Ayush Jha
+ Ayush Jha (Parsing + Queries in Database)
 
- Yuvraj Singh Shekhawat
+ Yuvraj Singh Shekhawat (Database creation in Postgre Sql + Loading + Queries in Database)
 
- Rohan Atkurkar
+ Rohan Atkurkar (ERD Diagram + Queries in Database)
