@@ -59,6 +59,7 @@ present.
 The loader.sql file obtained after compiling and executing all three parse files will contain all
 the entries to populate the database.
 pg_dump file has the backup of our obtained database.
+
 CONTRIBUTION
 
  Ayush Jha
