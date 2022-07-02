@@ -57,6 +57,6 @@ CONTRIBUTION
 
  Ayush Jha (Parsing + Queries in Database)
 
- Yuvraj Singh Shekhawat (Database creation in Postgre Sql + Loading + Queries in Database)
+ Yuvraj Singh Shekhawat (Database creation in Postgre Sql + Relation schema + Loading + Queries in Database)
 
  Rohan Atkurkar (ERD Diagram + Queries in Database)
